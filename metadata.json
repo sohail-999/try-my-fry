@@ -1,0 +1,6 @@
+{
+  "name": "Try My Fry",
+  "description": "A high-performance, mobile-optimized menu, smart WhatsApp order builder, and Roman Urdu/English Gemini AI assistant for the popular 'Try My Fry' fast food shop on Walton Road, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
